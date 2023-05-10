@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LABINI_EDP-Acttivity6", "LABINI_EDP-Acttivity6.vbproj", "{A4469532-0DD6-4E20-BC4D-928930D39BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4469532-0DD6-4E20-BC4D-928930D39BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4469532-0DD6-4E20-BC4D-928930D39BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4469532-0DD6-4E20-BC4D-928930D39BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4469532-0DD6-4E20-BC4D-928930D39BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F6E85B-A5A3-49E2-99FF-05642171EFAB}
+	EndGlobalSection
+EndGlobal
